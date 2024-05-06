@@ -1,7 +1,6 @@
-
 # <hello></world>
 
-Hi! I'm legendaryfishwastaken. This is my GitHub profile.
+I'm legendaryfishwastaken. This is my GitHub profile.
 ## Main Languages
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
