@@ -1,5 +1,1 @@
-![legendaryfishwastaken's Stats](https://github-readme-stats.vercel.app/api?username=legendaryfishwastaken&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
-
-I make stuff.
-
-..yeah
+![Monkeytype Stats](https://monkeytypecard.vercel.app/monkeytype.svg?username=legendaryfish&theme=catppuccin&wordValue=10&timeValue=15)
